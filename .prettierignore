@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+storage/
+test-results/
+public/assets/
+.env
+.env.*
+package-lock.json
+*.cmd
+database/
