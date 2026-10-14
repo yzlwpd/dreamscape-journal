@@ -4,6 +4,10 @@
 
 **创作方式：**选题及体验后的修改反馈由杨政提供，代码由Codex辅助完成。本仓库展示作品及AI协作过程，不代表作者独立手写实现全部功能。个人贡献说明见[项目介绍](docs/project-case-study.md)。
 
+## 更多作品
+
+[查看杨政作品索引](docs/portfolio-index.md)，包括梦境映像、NEXUS TECH商城和Vue后台管理演示系统。
+
 ## 作品预览
 
 ![作品首页](docs/screenshots/overview.png)
